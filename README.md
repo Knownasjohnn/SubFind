@@ -11,5 +11,5 @@ Installation
 
 ~cd SubFind
 
-~python SubFind.py
+~python3 Subfind.py
 
